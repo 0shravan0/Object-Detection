@@ -1,9 +1,9 @@
 # Object-Detection
 Simple object detection technique using Opencv
-# Libraries Used
-Numpy
+## Libraries Used
+Numpy<br>
 OpenCV
-# Steps
+## Steps
 1. First found Mask by by creating trackbar of Min RGB and Max RGB and converting it into Binary and extracting the coordinates
 
 2. Second After getting the coordinates we use opencv to capture the image and find contours 
